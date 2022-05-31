@@ -5,7 +5,7 @@ class MyHeader extends HTMLElement{
         <div class="container-fluid">
             <img id="logo" src="images/logo.jpg" style="height: 100px;">
             <h3 id="school_name">MAMRAJ GOVERNMENT GIRLS INTER COLLEGE</h1>
-            <h5 id="school_Address">NoorPur, Payagpur (Bahraich),<br> UTTAR PRADESH <br> Pin Code : 271871 </h1>
+            <h5 id="school_Address">Noorpur, Payagpur (Bahraich),<br> UTTAR PRADESH <br> Pin Code : 271871 </h1>
         </div>
         </nav>
         
