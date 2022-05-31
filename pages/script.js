@@ -21,12 +21,12 @@ class MyFooter extends HTMLElement{
         <nav class="navbar navbar-expand-sm  navbar-dark" id="mainHeading">
           <div class="container-fluid">
             <div>
-              <h1 style="color: white;">Authorised by Mrs. Varsha Gautam</h1>
+              <h3 style="color: white;">Authorised by <b> Mrs. Varsha Gautam</b></h3>
               <h3 style="color: white;">Principal</h3> 
               <h4 style="color: white;">MAMRAJ GOVERNMENT GIRLS INTER COLLEGE</h4>
               <br><br>        </div>
               <div>
-                <h1 style="color: white;">Important Links*</h1>
+                <h3 style="color: white;">Important Links*</h3>
                 <ul>
                     <a  href="https://ncert.nic.in/" target="_blank">NCERT Books</a><br>
                     <a href="https://upmsp.edu.in/" target="_blank">UP Board</a><br>
