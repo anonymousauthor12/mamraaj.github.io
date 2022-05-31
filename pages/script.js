@@ -55,7 +55,7 @@ class MyHead extends HTMLElement{
     connectedCallback(){
         this.innerHTML=`<nav class="navbar navbar-expand-sm navbar-dark" id="navBar">
         <div class="container-fluid">
-        <div class="top" style="color:white"><img src="images/logo.jpg" style="height: 50px;"><h6 >MAMRAJ GOVERNMENT GIRLS HIGHER SECONDARY SCHOOL<h6></div>
+        <div class="top" style="color:white"><img src="images/logo.jpg" style="height: 50px;"><h6 >MAMRAJ GOVERNMENT GIRLS INTER COLLEGEL<h6></div>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
             </button>
