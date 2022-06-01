@@ -41,7 +41,7 @@ class MyFooter extends HTMLElement{
           
           </nav>
           <div class="la">
-            <h5 style="color: white;">©Copyright Mamraj Govt. HS Payagpur. All Rights Reserved. </h5>
+            <h5 style="color: white;">©Copyright Mamraj GGIC Payagpur. All Rights Reserved. </h5>
         </div>
       </div>
       `
