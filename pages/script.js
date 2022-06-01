@@ -64,6 +64,9 @@ class MyHead extends HTMLElement{
                     <li class="nav-item">
                         <a class="nav-link" id="home" href="Home.html">Home</a>
                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" id="about" href="AboutUs.html">About Us</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" id="gallery" href="other.html">Gallery</a>
                     </li>
