@@ -27,7 +27,7 @@ header{
 .nav-link{
     font-size: 25px;
 }
-#home,#gallery,#course,#faculty,#contact{
+#home,#gallery,#course,#faculty,#contact,#about{
     color: whitesmoke;
     margin-left: 10px;
 }
