@@ -3,7 +3,7 @@ class MyHeader extends HTMLElement{
         this.innerHTML=`<header>
         <nav class="navbar navbar-expand-sm  navbar-dark" id="mainHeading">
         <div class="container-fluid">
-            <img id="logo" src="images/logo.jpg" style="height: 300px;">
+            <img id="logo" src="../images/logo.jpg" style="height: 300px;">
             <h1 id="school_name">MAMRAJ GOVERNMENT GIRLS HIGHER SECONDARY SCHOOL</h1>
             <h1 id="school_Address">Noor Pur, Payagpur (Bahraich),<br> UTTAR PRADESH <br> Pin Code : 271871 </h1>
         </div>
@@ -49,7 +49,7 @@ class MyHead extends HTMLElement{
     connectedCallback(){
         this.innerHTML=`<nav class="navbar navbar-expand-sm navbar-dark" id="navBar">
         <div class="container-fluid">
-        <div class="top" style="color:white"><img src="images/logo.jpg" style="height: 50px;"><h6 >MAMRAJ GOVERNMENT GIRLS HIGHER SECONDARY SCHOOL<h6></div>
+        <div class="top" style="color:white"><img src="../images/logo.jpg" style="height: 50px;"><h6 >MAMRAJ GOVERNMENT GIRLS HIGHER SECONDARY SCHOOL<h6></div>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
             </button>
