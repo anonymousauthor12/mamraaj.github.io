@@ -13,7 +13,7 @@ const SCHOOL = {
   name: 'Mamraj Govt. Girls Higher Secondary School',
   full: 'MAMRAJ GOVERNMENT GIRLS HIGHER SECONDARY SCHOOL',
   place: 'Payagpur, Bahraich',
-  logo: 'images/logo.jpg'
+  logo: '../images/logo.jpg'
 };
 
 /* main navigation */
