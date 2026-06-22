@@ -22,12 +22,12 @@ header{
     background-color:  rgb(8, 8, 67);
 }
 #logo{
-    width: 100px;
+    width: 300px;
 }
 .nav-link{
     font-size: 25px;
 }
-#home,#gallery,#course,#faculty,#contact,#about{
+#home,#gallery,#course,#faculty,#contact{
     color: whitesmoke;
     margin-left: 10px;
 }
