@@ -1,27 +1,41 @@
-.hed{
-    position: relative;
-  }
-  #main_page{
-    background-color:  rgb(8, 8, 67);
-    padding-left: 10%;
-  
-    border: groove;
-  }
-  .main_page{
-    margin-left: 4%;
-    padding-right: 4%;
-  }
-  .last{
-    background-color:  rgb(8, 8, 67);
-  }
-  #img1{
-    width: 90%;
-  }
-  #school_name1,#school_Address1{
-    color: white;
-  }
-  .la{
-    border: groove;
-    padding: 20px;
-    text-align: center;
-  }
+body{
+    background-color: rgb(62, 62, 76);
+}
+#g1
+{
+    padding:1%;
+    height: 95%;
+    width: 98%;
+}
+#m1,#m2,#m3,#m4
+{
+    padding:1%;
+    float: left;
+    height: 100%;
+    width: 48%;  
+}
+#c1,#c2
+{
+    padding:1%;
+    height: 100%;
+    width: 98%; 
+}
+#t1,#r1,#s1,#s2,#l1,#l2,#l3,#p1,#p2,#g1,#g2,#g3
+{
+    padding:1%;
+    height: 95%;
+    width: 98%; 
+}
+#i1,#i3,#i4,#i5,#i6,#i7,#i11
+{
+    padding:1%;
+    height: 95%;
+    width: 98%;
+}
+#i2,#i8,#i9,#i10
+{
+    padding:1%;
+    float: left;
+    height: 100%;
+    width: 48%; 
+}
